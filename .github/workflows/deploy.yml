@@ -30,7 +30,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: node node_modules/@lefolio/engine/scripts/lefolio.mjs build
+        run: npm run build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
