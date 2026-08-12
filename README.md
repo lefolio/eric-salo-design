@@ -1,6 +1,8 @@
-# Eric Salon Design (LeFolio template starter)
+# Eric Salon Design
 
-§3 template starter: demo `Content/` + local `src/` TemplateModule + `@lefolio/engine`.
+Includes:
+- The site content in `Content/`
+- The template in src/`TemplateModule`
 
 ## Run
 
@@ -21,20 +23,11 @@ No extra CLI flags — the engine discovers `./src/index.ts`, registers the `sal
 
 ```text
 src/           # TemplateModule (shell, views, ::: blocks, CSS)
-Content/       # Demo vault (edit this for site content)
-package.json   # depends on @lefolio/engine
+Content/       # Site Content
+package.json
 ```
-
-Template source imports engine APIs:
-
-- `@lefolio/engine/template` — types (`TemplateModule`, content types, …)
-- `@lefolio/engine/markdown` — `MarkdownRenderer`, `MarkdownBody`
-- `@lefolio/engine/globals.css` — Tailwind `@reference` for template CSS
 
 ## Fork
 
 Clone or copy this folder, change React/CSS under `src/`, and edit markdown under `Content/`. Keep the engine as a dependency (`file:../lefolio.md` locally, or a published `@lefolio/engine` version).
 
-## Later: publish as a template package
-
-Publishing `@lefolio/template-salo` (npm module without the fat demo vault) is deferred — see LeFolio [[distribution]] §4.

@@ -1,8 +1,8 @@
 site:
   title: "Eric Salo Design"
   description: "Premium underwear, swimwear & sportswear designed for comfort and style"
-  url: "http://localhost:3000"
-  basePath: ""
+  url: "https://ericsalodesign.github.io/eric-salon-design"
+  basePath: "/eric-salon-design"
 
 template: salo
 
