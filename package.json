@@ -1,0 +1,17 @@
+{
+  "name": "eric-salon-design",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Eric Salo Design landing template starter for LeFolio (§3 demo + fork)",
+  "scripts": {
+    "sync": "lefolio sync",
+    "dev": "lefolio dev",
+    "build": "lefolio build"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@lefolio/engine": "file:../lefolio.md"
+  }
+}

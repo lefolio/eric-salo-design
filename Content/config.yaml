@@ -1,0 +1,35 @@
+site:
+  title: "Eric Salo Design"
+  description: "Premium underwear, swimwear & sportswear designed for comfort and style"
+  url: "http://localhost:3000"
+  basePath: ""
+
+template: salo
+
+theme:
+  mode: light
+
+home: Home.md
+
+logo: "Assets/logo.png"
+favicon: "Assets/favicon.png"
+
+cta:
+  label: "Shop Now"
+  href: "https://ericsalodesign.com"
+
+author:
+  name: "Eric Salo Design"
+  links:
+    email: "hello@ericsalodesign.com"
+    instagram: "https://instagram.com/ericsalodesign"
+    facebook: "https://facebook.com/ericsalodesignusa"
+    twitter: "https://twitter.com/ericsalodesign"
+
+navigation:
+  - Men: "https://ericsalodesign.com/pages/men"
+  - Women: "https://ericsalodesign.com/pages/women"
+  - New Arrivals: "https://ericsalodesign.com/collections/all"
+  - Sale: "https://ericsalodesign.com/collections/all-on-sale"
+  - Blog
+  - Tutorial

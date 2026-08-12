@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.content/
+.obsidian/
+public/
+.lefolio/
+.DS_Store
+*.local
+.env
+*.tgz
+tsconfig.tsbuildinfo
