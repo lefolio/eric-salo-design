@@ -29,6 +29,10 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Install engine dependencies
+        run: npm ci
+        working-directory: node_modules/@lefolio/engine
+
       - name: Build
         run: npm run build
 
