@@ -4,9 +4,9 @@
   "private": true,
   "description": "Eric Salo Design landing template starter for LeFolio (§3 demo + fork)",
   "scripts": {
-    "sync": "lefolio sync",
-    "dev": "lefolio dev",
-    "build": "lefolio build"
+    "sync": "node node_modules/@lefolio/engine/scripts/lefolio.mjs sync",
+    "dev": "node node_modules/@lefolio/engine/scripts/lefolio.mjs dev",
+    "build": "node node_modules/@lefolio/engine/scripts/lefolio.mjs build"
   },
   "engines": {
     "node": ">=20"

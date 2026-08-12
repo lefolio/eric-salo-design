@@ -29,12 +29,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install engine dependencies
-        run: npm ci
-        working-directory: node_modules/@lefolio/engine
-
       - name: Build
-        run: npm run build
+        run: node node_modules/@lefolio/engine/scripts/lefolio.mjs build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
