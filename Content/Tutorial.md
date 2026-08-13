@@ -117,8 +117,30 @@ navigation:
 
 The `Tutorial` link should disapear from the site navigation if you have your preview running.
 
-Final steps, let's push those changes to GitHub so that the site is clean without the tutorial.
+Final steps, let's push those changes to GitHub so that the site is clean without the tutorial. It's only 2 clicks away now!
+
 (Note the tutorial is still available on the lefolio.md site!)
 
 - Open **GitHub Desktop**
-- 
+- You should see changes on the left, and at the bottom there is a field to type a Summary. In Git, we say *Commit* the changes to kind of package them with a summary, that's what we are doing here. So type for example "Removed tutorial"![[8 - commit.png|500]]
+- Then press the "Commit x files to main"
+- Finaly, we can *Push* those changes to GitHub, which will publish the changes for everyone.
+- After you press Commit, you should be able to press **Push origin**, so go ahead and do that!![[9 - push.png|500]]
+
+That's it!
+It can take a while, maybe up to two minutes before the changes are live.
+You can monitor the changes on GitHub, look for **Actions** on the page of your repository.
+
+It should be [here](https://github.com/ericsalodesign/eric-salo-design/actions) as well.
+
+✅🎉🥳 Congrats you've been through the whole cycle:
+
+- Take ownershipe of your site
+- Set up your envorionment to edit the site
+- Run a development Server
+- Publish the changes
+
+Now you can start playing for real, maybe add a new blog post?
+
+Talk to you later.
+Olivier
