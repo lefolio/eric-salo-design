@@ -32,13 +32,13 @@ Stylish and comfortable designs for women
 [Shop Women](https://ericsalodesign.com/collections/women)
 
 ### Swimwear
-![[Sample Content/Landing/Assets/collection-3.jpg]]
+![[Assets/collection-3.jpg]]
 Sexy swimwear for modern men and women
 [Shop Sportswear](https://ericsalodesign.com/collections/swimwear)
 :::
 
 ::: about
-![[Sample Content/Landing/Assets/about-brand.jpg]]
+![[Assets/about-brand.jpg]]
 
 ## The Eric Salo Design Story
 

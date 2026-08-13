@@ -1,9 +1,9 @@
 ---
-title: "Designer Menswear and Luxury Lingerie Shaping Modern Fashion Trends"
-published: "2026-06-23"
-updated: "2026-07-15"
-feature_image: "Assets/collection-2.jpg"
-preview: "How premium innerwear, refined loungewear, and designer menswear are reshaping everyday fashion with craftsmanship and comfort."
+title: Designer Menswear and Luxury Lingerie Shaping Modern Fashion Trends
+published: 2026-06-23
+updated: 2026-07-15
+feature_image: "[[Content/Assets/collection-2.jpg]]"
+preview: How premium innerwear, refined loungewear, and designer menswear are reshaping everyday fashion with craftsmanship and comfort.
 ---
 
 Fashion has evolved into a balance of comfort, craftsmanship, and personal expression. Today's consumers are looking for clothing that not only looks sophisticated but also delivers exceptional comfort throughout the day. Premium innerwear, refined loungewear, elegant lingerie, and performance-inspired menswear have become essential wardrobe staples rather than occasional purchases. Designers continue to develop collections that combine modern aesthetics with innovative garment engineering, ensuring every piece offers a superior fit and lasting durability. High-quality fabrics, thoughtful tailoring, and attention to detail allow modern apparel to support confidence while remaining practical for everyday wear.
@@ -12,11 +12,9 @@ Fashion has evolved into a balance of comfort, craftsmanship, and personal expre
 
 Luxury fashion is no longer defined solely by appearance. Consumers now expect premium garments to perform exceptionally well while maintaining elegant styling. Breathable fabrics, seamless construction, ergonomic fits, and durable stitching have become standard expectations within high-end apparel collections. These improvements provide greater flexibility, enhanced comfort, and improved confidence throughout daily activities.
 
-::: columns
+![[Assets/collection-3.jpg|300]]
+
 Modern designers carefully select fabrics that feel soft against the skin while maintaining structure after repeated washing. Cotton blends, premium microfiber, stretch fabrics, silk-inspired textiles, and moisture-managing materials work together to create garments suitable for both active lifestyles and relaxed everyday wear. These innovations allow luxury collections to remain stylish without compromising functionality.
-:::
-![[Sample Content/Landing/Assets/collection-3.jpg]]
-:::
 
 As fashion continues to evolve, shoppers increasingly appreciate brands that focus on craftsmanship, sustainability, and timeless design instead of fast-changing seasonal trends. Investing in premium essentials often results in garments that retain their quality, comfort, and appearance for years.
 

@@ -12,6 +12,6 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@lefolio/engine": "^0.1.6"
+    "@lefolio/engine": "file:../lefolio.md"
   }
 }

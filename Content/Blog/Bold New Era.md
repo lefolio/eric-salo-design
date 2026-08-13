@@ -2,7 +2,7 @@
 title: "EricSaloDesign.com: A Bold New Era of Men's Intimate Fashion"
 published: 2026-07-26
 updated: 2026-08-04
-feature_image: "[[Sample Content/Landing/Assets/collection-1.jpg]]"
+feature_image: "[[Content/Assets/collection-3.jpg]]"
 preview: A bold, inclusive fashion hub redefining men's intimate apparel — modular design, editorial clarity, and expressive fashion.
 ---
 
