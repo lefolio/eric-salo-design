@@ -2,7 +2,6 @@
 title: Eric Salo Design
 cta:
 ---
-
 ::: hero
 ![[hero-banner.jpg]]
 

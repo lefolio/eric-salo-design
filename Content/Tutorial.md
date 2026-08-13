@@ -59,7 +59,9 @@ This is where the fun stuff starts! Just a few more tools to install before you 
 
 We continue with the setup of Obsidian! Obsidian is also great because it can be extended so we can turn it into a full web editing station; this, however, requires installing a few plugins, and I'm building a plugin for Obsidian that will make things smoother, but it's still in development.
 
-- First, if you want to understand more, watch the short video where I explain why we use plugins.
+- First, if you want to understand more, watch the short video where I explain why we use plugins. 
+![](https://youtu.be/80n8eo1swWE)
+
 - Open the Obsidian Settings.
 - Navigate to **Community Plugins** on the left.
 - Press **Enable Community Plugins**.
@@ -76,7 +78,27 @@ We continue with the setup of Obsidian! Obsidian is also great because it can be
 ✅ Your setup is ready for optimal comfort in Obsidian!
 
 ## Step 5: Run the development server to preview your changes
-## Step 6: Publish changes
+
+This is probably the scariest part because you have to touch a terminal, at least for now. Anyway, knowing a bit about terminal is a great asset if you're gonna work with lefolio or similar tools in the future. So it's a good day to start, and it will be a small part, no worries.
+
+- Instal **Nodejs**, this will allow to run the development server that uses javascript. Go to https://nodejs.org/en/download, scroll down and chose the **Windows Installer (.msi)** option.
+- Run the installer, defaults should be just fine.
+- To check that the installation you can open a terminal, open **Git Bash** and type `npm`. If a bunch of text is printed, everything is good!
+- Now navigate the terminal to the location where you installed the project. If you have installed the **Terminal Plugin** in step 4 it will be easier, in that case, press the terminal icon on the left that says **Open terminal**. This will give you some choice (External or Integrated). Either is fine here, it's a mater of taste of you prefer to have it in another window or inside Obsidian, the important is that it is open at the location of the project!![[7 - terminal.png|400]]
+- Finaly, install the dependencies and run the server type:
+```
+npm install
+```
+I should take a while and output a bunch of text, if there is no obvious error, you can run the server:
+```
+npm run dev
+```
+Then the preview should be available on your browser:
+
+http://localhost:3000/eric-salo-design/
+
+✅ Congrats you're setup to edit the site and see the changes live before you publish it!
+## Step 6: Make and publish changes
 Let's make some changes and push them to the repo to get the full experience.
 Suggestion: remove the Tutorial page.
 
@@ -94,3 +116,9 @@ navigation:
 ```
 
 The `Tutorial` link should disapear from the site navigation if you have your preview running.
+
+Final steps, let's push those changes to GitHub so that the site is clean without the tutorial.
+(Note the tutorial is still available on the lefolio.md site!)
+
+- Open **GitHub Desktop**
+- 
